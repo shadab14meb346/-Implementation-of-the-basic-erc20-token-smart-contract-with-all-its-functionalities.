@@ -1,7 +1,7 @@
 
 pragma solidity ^0.4.18;
 
-import "browser/EIP20Interface.sol";
+import "-Implementation-of-the-basic-erc20-token-smart-contract-with-all-its-functionalities./EIP20Interface.sol";
 
 
 contract EIP20 is EIP20Interface {
